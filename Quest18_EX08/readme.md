@@ -25,13 +25,13 @@
 
 ▶ 한글로 데이터 전처리 작업 부분
   def preprocess_sentence(sentence):
-  # 단어와 구두점(punctuation) 사이의 거리를 만듭니다.
-  # 예를 들어서 "I am a student." => "I am a student ."와 같이
-  # student와 온점 사이에 거리를 만듭니다.
+  단어와 구두점(punctuation) 사이의 거리를 만듭니다.
+  예를 들어서 "I am a student." => "I am a student ."와 같이
+  student와 온점 사이에 거리를 만듭니다.
   sentence = re.sub(r"([?.!,])", r" \1 ", sentence)
   sentence = re.sub(r'[" "]+', " ", sentence)
 
-  # (a-z, A-Z, ㄱ-ㅎ, ㅏ-ㅣ, 가-힣, ".", "?", "!", ",")를 제외한 모든 문자를 공백인 ' '로 대체합니다.
+  (a-z, A-Z, ㄱ-ㅎ, ㅏ-ㅣ, 가-힣, ".", "?", "!", ",")를 제외한 모든 문자를 공백인 ' '로 대체합니다.
   sentence = re.sub(r"[^a-zA-Zㄱ-ㅣ가-힣0-9?.!,]+", " ", sentence)
   sentence = sentence.strip()
 
@@ -49,11 +49,11 @@
   tokenized_inputs, tokenized_outputs = [], []
   
   for (sentence1, sentence2) in zip(inputs, outputs):
-    # 정수 인코딩 과정에서 시작 토큰과 종료 토큰을 추가
+    정수 인코딩 과정에서 시작 토큰과 종료 토큰을 추가
     sentence1 = START_TOKEN + tokenizer.encode(sentence1) + END_TOKEN
     sentence2 = START_TOKEN + tokenizer.encode(sentence2) + END_TOKEN
 
-    # 최대 길이 이하인 경우에만 데이터셋으로 허용
+     최대 길이 이하인 경우에만 데이터셋으로 허용
     if len(sentence1) <= MAX_LENGTH and len(sentence2) <= MAX_LENGTH:
       tokenized_inputs.append(sentence1)
       tokenized_outputs.append(sentence2)
@@ -67,4 +67,4 @@
   return tokenized_inputs, tokenized_outputs
 
 
-# 코드 리뷰를 통해 개선한 코드가 있다면 코드와 간략한 설명을 첨부합니다.
+코드 리뷰를 통해 개선한 코드가 있다면 코드와 간략한 설명을 첨부합니다.
