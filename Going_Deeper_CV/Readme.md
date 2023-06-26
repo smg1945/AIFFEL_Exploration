@@ -1,7 +1,7 @@
-<aside>
 코더 : 이하영<br>
 리뷰어 :
 
+<aside>
   🔑 **PRT(Peer Review Template)**
 
 - [ ]  1.코드가 정상적으로 동작하고 주어진 문제를 해결했나요?
