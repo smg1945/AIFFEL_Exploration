@@ -1,0 +1,204 @@
+
+2023-07-07 18:46:01.299876
+Image Size: (256, 256)
+Batch Size: 16
+LR: 0.0001
+Epochs: 500
+Early Stopping Patience: 50
+
+2023-07-07 18:52:13.542219
+Image Size: (256, 256)
+Batch Size: 16
+LR: 0.0001
+Epochs: 500
+Early Stopping Patience: 50
+
+2023-07-07 18:52:35.447513
+Image Size: (256, 256)
+Batch Size: 16
+LR: 0.0001
+Epochs: 500
+Early Stopping Patience: 50
+
+2023-07-07 19:23:19.314303
+Image Size: (256, 256)
+Batch Size: 16
+LR: 0.0001
+Epochs: 500
+Early Stopping Patience: 50
+
+2023-07-09 18:26:39.672919
+Image Size: (256, 256)
+Batch Size: 16
+LR: 0.0001
+Epochs: 500
+Early Stopping Patience: 50
+
+2023-07-09 20:11:36.336870
+Image Size: (256, 256)
+Batch Size: 16
+LR: 0.0001
+Epochs: 500
+Early Stopping Patience: 50
+
+2023-07-09 20:25:01.784312
+Image Size: (256, 256)
+Batch Size: 16
+LR: 0.0001
+Epochs: 500
+Early Stopping Patience: 50
+
+2023-07-09 20:30:05.545358
+Image Size: (256, 256)
+Batch Size: 16
+LR: 0.0001
+Epochs: 500
+Early Stopping Patience: 50
+
+2023-07-09 21:02:31.238432
+Image Size: (256, 256)
+Batch Size: 16
+LR: 0.0001
+Epochs: 500
+Early Stopping Patience: 50
+
+Optimizer: Adam
+Loss: BCE Dice Loss
+
+2023-07-09 21:02:52.861681
+Image Size: (256, 256)
+Batch Size: 16
+LR: 0.0001
+Epochs: 500
+Early Stopping Patience: 50
+
+Optimizer: Adam
+Loss: BCE Dice Loss
+
+2023-07-09 21:05:06.256994
+Image Size: (256, 256)
+Batch Size: 16
+LR: 0.0001
+Epochs: 500
+Early Stopping Patience: 50
+
+Optimizer: Adam
+Loss: BCE Dice Loss
+
+2023-07-09 21:06:27.853169
+Image Size: (256, 256)
+Batch Size: 16
+LR: 0.0001
+Epochs: 500
+Early Stopping Patience: 50
+
+Optimizer: Adam
+Loss: BCE Dice Loss
+
+2023-07-09 21:07:57.361821
+Image Size: (256, 256)
+Batch Size: 16
+LR: 0.0001
+Epochs: 500
+Early Stopping Patience: 50
+
+2023-07-09 21:08:08.656888
+Image Size: (256, 256)
+Batch Size: 16
+LR: 0.0001
+Epochs: 500
+Early Stopping Patience: 50
+
+Optimizer: Adam
+Loss: BCE Dice Loss
+
+2023-07-09 21:14:18.208726
+Image Size: (256, 256)
+Batch Size: 16
+LR: 0.0001
+Epochs: 500
+Early Stopping Patience: 50
+
+Optimizer: Adam
+Loss: BCE Dice Loss
+
+2023-07-09 21:45:08.184311
+Image Size: (256, 256)
+Batch Size: 16
+LR: 0.0001
+Epochs: 500
+Early Stopping Patience: 50
+
+Optimizer: Adam
+Loss: BCE Dice Loss
+
+2023-07-09 21:58:42.169032
+Image Size: (256, 256)
+Batch Size: 16
+LR: 0.0001
+Epochs: 500
+Early Stopping Patience: 50
+
+Optimizer: Adam
+Loss: BCE Dice Loss
+
+2023-07-09 22:08:55.376830
+Image Size: (256, 256)
+Batch Size: 16
+LR: 0.0001
+Epochs: 500
+Early Stopping Patience: 50
+
+Optimizer: Adam
+Loss: BCE Dice Loss
+
+2023-07-09 22:10:17.150920
+Image Size: (256, 256)
+Batch Size: 16
+LR: 0.0001
+Epochs: 500
+Early Stopping Patience: 50
+
+Optimizer: Adam
+Loss: BCE Dice Loss
+
+2023-07-09 22:10:24.749108
+Image Size: (256, 256)
+Batch Size: 16
+LR: 0.0001
+Epochs: 500
+Early Stopping Patience: 50
+
+Optimizer: Adam
+Loss: BCE Dice Loss
+
+2023-07-09 22:17:22.829157
+Image Size: (256, 256)
+Batch Size: 16
+LR: 0.0001
+Epochs: 500
+Early Stopping Patience: 50
+
+Optimizer: Adam
+Loss: BCE Dice Loss
+
+2023-07-09 22:34:35.237508
+Image Size: (256, 256)
+Batch Size: 16
+LR: 0.0001
+Epochs: 500
+Early Stopping Patience: 50
+
+Optimizer: Adam
+Loss: BCE Dice Loss
+
+2023-07-09 22:56:28.955718
+Image Size: (256, 256)
+Batch Size: 16
+LR: 0.0001
+Epochs: 500
+Early Stopping Patience: 50
+
+Optimizer: Adam
+Loss: BCE Dice Loss
+
